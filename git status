@@ -1,0 +1,39 @@
+[33mcommit 75fb8a27812bc10e29411f8ad41a54ab3b653720[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 6cf24f0 ac8088e
+Author: Said Kaya <kayasaid100@gmail.com>
+Date:   Sat Feb 14 11:25:42 2026 +0300
+
+    Merge branch 'master' of https://github.com/SaidKaya65/K-TAHYA
+
+[33mcommit 6cf24f05ea8685b40eb77b4b5eb3a7d17c47ccd3[m
+Author: Said Kaya <kayasaid100@gmail.com>
+Date:   Sat Feb 14 11:23:50 2026 +0300
+
+    üçüncü dosya oluşturuldu
+
+[33mcommit ac8088e20145026bcaecfb927ee6014321c54473[m[33m ([m[1;31mkütahya/master[m[33m)[m
+Merge: bccd134 04c6a9b
+Author: Said Kaya <kayasaid100@gmail.com>
+Date:   Sat Feb 14 11:13:03 2026 +0300
+
+    Merge pull request #1 from SaidKaya65/feat
+    
+    Kütahya vazosunun konumu
+
+[33mcommit 04c6a9bd89bd79cb7e752349e92d548e5888ac9a[m[33m ([m[1;31mkütahya/feat[m[33m, [m[1;32mfeat[m[33m)[m
+Author: Said Kaya <kayasaid100@gmail.com>
+Date:   Sat Feb 14 10:55:23 2026 +0300
+
+    Kütahya vazosunun konumu
+
+[33mcommit bccd134107f7fc1fd4474bf8395ebbcf147bca45[m
+Author: Said Kaya <kayasaid100@gmail.com>
+Date:   Sat Feb 14 10:54:15 2026 +0300
+
+    Çinilerin sayısı açıklandı
+
+[33mcommit 233f04d1d70dd8c7cc9667ddf2bd581340f8ad25[m
+Author: Said Kaya <kayasaid100@gmail.com>
+Date:   Sat Feb 14 10:53:14 2026 +0300
+
+    Kütahya çini rengi açıklandı
